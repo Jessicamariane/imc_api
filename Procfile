@@ -1,0 +1,1 @@
+web: gunicorn imc_api.wsgi
